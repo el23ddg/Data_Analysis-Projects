@@ -8,10 +8,10 @@ This project demonstrates a comprehensive analysis of the Ferns & Petals (FNP) s
 2) Pivot Tables: Used to summarize and analyze key metrics.
 3) Interactive Visualizations: Created with Excel's charting tools to highlight insights dynamically.
 4) Dashboard Highlights:
-- Total revenue and orders
-- Revenue breakdown by occasions, categories, and timeframes
-- Top products by revenue and top cities by orders
-- Average delivery time and customer spending analysis
+a. Total revenue and orders
+b. Revenue breakdown by occasions, categories, and timeframes
+c. Top products by revenue and top cities by orders
+d. Average delivery time and customer spending analysis
 #### Tools Used
 - Excel: Core platform for data manipulation and visualization
 - Power Query: For advanced data cleaning and transformation
