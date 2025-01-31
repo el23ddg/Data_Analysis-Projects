@@ -21,3 +21,11 @@ d. Average delivery time and customer spending analysis
 - Revenue distribution across occasions, categories, and products
 - Seasonal trends and peak performance months
 - Customer behavior insights, including average order value and delivery patterns
+### 2. Coffee Shop Sales Analysis
+#### Project Overview
+This project explores the Coffee Shop Sales dataset from Maven Analytics, leveraging Microsoft Excel for analysis and interactive dashboards. The goal is to extract meaningful insights about sales, customer behavior, and store performance to drive strategic decisions.
+#### Insights Delivered
+- Peak sales hours and preferred days for customer visits
+- Top revenue-generating product categories and items
+- Footfall distribution and store performance comparison
+- Order size preferences and seasonal trends
