@@ -1,13 +1,13 @@
 # Data_Analysis-Projects
 A bunch of projects in Excel, Python and SQL which I am building to get a good grasp of data analytics skills.
-### FNP Sales Analysis
+### 1. FNP Sales Analysis
 #### Project Overview
 This project demonstrates a comprehensive analysis of the Ferns & Petals (FNP) sales dataset using Microsoft Excel. The analysis focuses on extracting insights and presenting them in an interactive and visually appealing dashboard. The workflow includes data cleaning, transformation, and visualization.
 #### Key Features
-- 1) Data Cleaning and Transformation: Processed using Power Query to ensure data accuracy and consistency.
-- 2) Pivot Tables: Used to summarize and analyze key metrics.
-- 3) Interactive Visualizations: Created with Excel's charting tools to highlight insights dynamically.
-- 4) Dashboard Highlights:
+1) Data Cleaning and Transformation: Processed using Power Query to ensure data accuracy and consistency.
+2) Pivot Tables: Used to summarize and analyze key metrics.
+3) Interactive Visualizations: Created with Excel's charting tools to highlight insights dynamically.
+4) Dashboard Highlights:
 - Total revenue and orders
 - Revenue breakdown by occasions, categories, and timeframes
 - Top products by revenue and top cities by orders
