@@ -32,9 +32,30 @@ This project explores the Coffee Shop Sales dataset from Maven Analytics, levera
 - 🌱 Identified seasonal trends to guide promotions
 ### 3. Pizza Sales Analysis Using SQL 🍕 
 #### Project Overview📋
-This project analyzes pizza sales data using SQL. The dataset consists of four CSV files:
+##### This project analyzes pizza sales data using SQL. The dataset consists of four CSV files:
 - order_details.csv – Contains details of each pizza ordered
 - orders.csv – Contains information about orders, including order time and date
 - pizza_types.csv – Contains pizza names, categories, and ingredients
 - pizzas.csv – Contains pizza sizes and prices
-The objective is to extract meaningful insights such as total revenue, most ordered pizzas, sales trends, and revenue contributions using SQL queries.
+##### The objective is to extract meaningful insights such as total revenue, most ordered pizzas, sales trends, and revenue contributions using SQL queries.
+#### 🔍 Key Insights & Questions Answered
+##### 🟢 Basic Queries
+- 1️⃣ Retrieve the total number of orders placed.
+- 2️⃣ Calculate the total revenue generated from pizza sales.
+- 3️⃣ Identify the highest-priced pizza.
+- 4️⃣ Identify the most common pizza size ordered.
+- 5️⃣ List the top 5 most ordered pizza types along with their quantities.
+##### 🟠 Intermediate Queries
+- 6️⃣ Join the necessary tables to find the total quantity of each pizza category ordered.
+- 7️⃣ Determine the distribution of orders by hour of the day.
+- 8️⃣ Join relevant tables to find the category-wise distribution of pizzas.
+- 9️⃣ Group the orders by date and calculate the average number of pizzas ordered per day.
+- 🔟 Determine the top 3 most ordered pizza types based on revenue.
+##### 🔴 Advanced Queries
+- 1️⃣1️⃣ Calculate the percentage contribution of each pizza type to total revenue.
+- 1️⃣2️⃣ Analyze the cumulative revenue generated over time.
+- 1️⃣3️⃣ Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+#### 🛠️ Technologies Used
+- SQL (for querying and analysis)
+- PostgreSQL / MySQL (whichever was used for execution)
+- CSV Data Processing
