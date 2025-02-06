@@ -59,3 +59,22 @@ This project explores the Coffee Shop Sales dataset from Maven Analytics, levera
 - SQL (for querying and analysis)
 - PostgreSQL / MySQL (whichever was used for execution)
 - CSV Data Processing
+### 4. Blinkit Sales Analysis Dashboard 📊
+#### 🚀 Overview
+This project is an interactive sales dashboard created in Microsoft Excel to analyze sales data for Blinkit, India's last-minute delivery app. The dashboard provides key insights into total sales, item categories, outlet performance, and customer ratings using data visualization techniques.
+#### 🎯 Features
+- ✅ Total Sales Overview – Displays total sales, average sales, ratings, and the number of items.
+- ✅ Sales by Item Type – Highlights revenue distribution across different categories like snack foods, dairy, and household items.
+- ✅ Sales by Fat Content – Analyzes low-fat vs. regular product sales.
+- ✅ Sales by Outlet Type & Location – Compares revenue from grocery stores and supermarkets (Type 1, 2, 3) across different tiers.
+- ✅ Trend Analysis – Shows sales trends based on outlet establishment years.
+- ✅ Interactive Filters – Allows filtering by outlet size, location, and item type.
+#### 🛠 Tools Used
+- Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
+- Data Cleaning & Formatting
+- Interactive Dashboard Design
+#### 💡 Insights Gained
+- Snack Foods generate the highest revenue.
+- Supermarkets (Type 3) contribute the largest share of total sales.
+- Household items are among the top-selling categories.
+- Sales peaked in 2018 but declined afterward.
