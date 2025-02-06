@@ -30,3 +30,11 @@ This project explores the Coffee Shop Sales dataset from Maven Analytics, levera
 - 🏢Footfall distribution and store performance comparison
 - 🥤Order size preferences and seasonal trends
 - 🌱 Identified seasonal trends to guide promotions
+### 3. Pizza Sales Analysis Using SQL 🍕 
+#### Project Overview📋
+This project analyzes pizza sales data using SQL. The dataset consists of four CSV files:
+- order_details.csv – Contains details of each pizza ordered
+- orders.csv – Contains information about orders, including order time and date
+- pizza_types.csv – Contains pizza names, categories, and ingredients
+- pizzas.csv – Contains pizza sizes and prices
+The objective is to extract meaningful insights such as total revenue, most ordered pizzas, sales trends, and revenue contributions using SQL queries.
